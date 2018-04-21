@@ -51,7 +51,7 @@
     <s:if test="#st.Even">    
         现在的索引是奇数为:<s:property value='#st.index'/>    
     </s:if>    
-    当前元素值：<s:property value='char'/>    
+    当前元素值： <s:property value='char'/>    
     </s:iterator> --%>
    
   </body>
